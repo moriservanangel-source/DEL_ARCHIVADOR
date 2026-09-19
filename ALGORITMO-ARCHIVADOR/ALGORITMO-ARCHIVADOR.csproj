@@ -43,11 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="CONSOLA\Program.cs" />
+    <Compile Include="EXPEDIENTE\Expediente.cs" />
+    <Compile Include="EXPEDIENTE\ExpedienteBase.cs" />
+    <Compile Include="EXPEDIENTE\ExpedienteConstructor.cs" />
+    <Compile Include="EXPEDIENTE\ExpedienteFromFileLine.cs" />
+    <Compile Include="EXPEDIENTE\ExpedienteToFileLine.cs" />
+    <Compile Include="EXPEDIENTE\ExpedienteToString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GESTORES.REGISTRAR\" />
+    <Folder Include="VALIDACIONES\" />
+    <Folder Include="VISTAS\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
