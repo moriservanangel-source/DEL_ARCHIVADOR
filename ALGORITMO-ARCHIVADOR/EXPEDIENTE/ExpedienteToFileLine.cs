@@ -1,12 +1,30 @@
-﻿using System;
+﻿using ALGORITMO_ARCHIVADOR.EXPEDIENTE;
+using MesaPartesCajamarca.Expediente.ToString;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ALGORITMO_ARCHIVADOR.EXPEDIENTE
+namespace MesaPartesCajamarca.Expediente.ToFileLine
 {
-    internal class ExpedienteToFileLine
+    public class ExpedienteToFileLine : ExpedienteToString
     {
+        public string ToFileLine()
+        {
+            return
+                $"{Codigo}|" +
+                $"{DniRuc}|" +
+                $"{Nombres}|" +
+                $"{Apellidos}|" +
+                $"{Telefono}|" +
+                $"{Correo}|" +
+                $"{TipoDocumento}|" +
+                $"{NumeroDocumento}|" +
+                $"{Folios}|" +
+                $"{Asunto}|" +
+                $"{AreaDestino}|" +
+                $"{FechaRegistro:yyyy-MM-dd HH:mm:ss}";
+        }
     }
 }

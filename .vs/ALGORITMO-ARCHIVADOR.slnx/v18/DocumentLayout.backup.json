@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|c:\\users\\user\\documents\\algoritmo_archivador\\algoritmo-archivador\\algoritmo-archivador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|solutionrelative:algoritmo-archivador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|c:\\users\\user\\documents\\algoritmo_archivador\\algoritmo-archivador\\algoritmo-archivador\\expediente\\expedientetostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|solutionrelative:algoritmo-archivador\\expediente\\expedientetostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\algoritmo-archivador\\expediente\\expedientetofileline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|solutionrelative:algoritmo-archivador\\expediente\\expedientetofileline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\algoritmo-archivador\\expediente\\expedientefromfileline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|solutionrelative:algoritmo-archivador\\expediente\\expedientefromfileline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\algoritmo-archivador\\expediente\\expedienteconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|solutionrelative:algoritmo-archivador\\expediente\\expedienteconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\algoritmo-archivador\\expediente\\expedientebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|solutionrelative:algoritmo-archivador\\expediente\\expedientebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\algoritmo-archivador\\expediente\\expediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|solutionrelative:algoritmo-archivador\\expediente\\expediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\algoritmo-archivador\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE36821-00F0-4273-AFD3-D4BF8B4B616F}|ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR.csproj|solutionrelative:algoritmo-archivador\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\Program.cs",
-              "RelativeDocumentMoniker": "ALGORITMO-ARCHIVADOR\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\Program.cs",
-              "RelativeToolTip": "ALGORITMO-ARCHIVADOR\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ExpedienteToFileLine.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteToFileLine.cs",
+              "RelativeDocumentMoniker": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteToFileLine.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteToFileLine.cs",
+              "RelativeToolTip": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteToFileLine.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-05T23:48:24.782Z",
+              "WhenOpened": "2026-09-19T22:12:43.571Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpedienteToString.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteToString.cs",
+              "RelativeDocumentMoniker": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteToString.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteToString.cs",
+              "RelativeToolTip": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteToString.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T22:13:00.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpedienteFromFileLine.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteFromFileLine.cs",
+              "RelativeDocumentMoniker": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteFromFileLine.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteFromFileLine.cs",
+              "RelativeToolTip": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteFromFileLine.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T22:12:17.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpedienteConstructor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteConstructor.cs",
+              "RelativeDocumentMoniker": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteConstructor.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteConstructor.cs",
+              "RelativeToolTip": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteConstructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T22:11:54.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpedienteBase.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteBase.cs",
+              "RelativeDocumentMoniker": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteBase.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteBase.cs",
+              "RelativeToolTip": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\ExpedienteBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T22:11:37.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expediente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\Expediente.cs",
+              "RelativeDocumentMoniker": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\Expediente.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\Expediente.cs",
+              "RelativeToolTip": "ALGORITMO-ARCHIVADOR\\EXPEDIENTE\\Expediente.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T22:11:11.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\CONSOLA\\Program.cs",
+              "RelativeDocumentMoniker": "ALGORITMO-ARCHIVADOR\\CONSOLA\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\ALGORITMO_ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\ALGORITMO-ARCHIVADOR\\CONSOLA\\Program.cs",
+              "RelativeToolTip": "ALGORITMO-ARCHIVADOR\\CONSOLA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T22:03:52.199Z"
             }
           ]
         }

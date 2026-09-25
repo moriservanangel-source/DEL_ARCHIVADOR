@@ -3,10 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MesaPartesCajamarca.Expediente.Base;
 
-namespace ALGORITMO_ARCHIVADOR.EXPEDIENTE
+namespace MesaPartesCajamarca.Expediente.Constructor
 {
-    internal class ExpedienteConstructor
+    public class ExpedienteConstructor : ExpedienteBase
     {
+        public ExpedienteConstructor()
+        {
+            FechaRegistro = DateTime.Now;
+        }
     }
 }
+

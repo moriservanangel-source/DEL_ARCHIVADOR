@@ -3,10 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MesaPartesCajamarca.Expediente.Constructor;
 
-namespace ALGORITMO_ARCHIVADOR.EXPEDIENTE
+namespace MesaPartesCajamarca.Expediente.ToString
 {
-    internal class ExpedienteToString
+    public class ExpedienteToString : ExpedienteConstructor
     {
+        public override string ToString()
+        {
+            return
+                $"Código: {Codigo} | " +
+                $"Solicitante: {Nombres} {Apellidos} | " +
+                $"Documento: {TipoDocumento} | " +
+                $"Folios: {Folios} | " +
+                $"Área: {AreaDestino}";
+        }
     }
 }
