@@ -50,13 +50,17 @@
     <Compile Include="EXPEDIENTE\ExpedienteFromFileLine.cs" />
     <Compile Include="EXPEDIENTE\ExpedienteToFileLine.cs" />
     <Compile Include="EXPEDIENTE\ExpedienteToString.cs" />
+    <Compile Include="GESTORES.REGISTRAR\GestorBuscar1.cs" />
+    <Compile Include="GESTORES.REGISTRAR\GestorExpediente.cs" />
+    <Compile Include="GESTORES.REGISTRAR\GestorOrdenar.cs" />
+    <Compile Include="GESTORES.REGISTRAR\GestorPersistencia.cs" />
+    <Compile Include="GESTORES.REGISTRAR\GestorRegistrar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="GESTORES.REGISTRAR\" />
     <Folder Include="VALIDACIONES\" />
     <Folder Include="VISTAS\" />
   </ItemGroup>
