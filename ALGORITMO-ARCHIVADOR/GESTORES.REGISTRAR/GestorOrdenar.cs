@@ -3,10 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MesaPartesCajamarca.Entidad;
+using ExpedienteEntidad = MesaPartesCajamarca.Entidad.Expediente;
 
-namespace ALGORITMO_ARCHIVADOR.GESTORES.REGISTRAR
+namespace MesaPartesCajamarca.Gestores.Ordenar
 {
-    internal class GestorOrdenar
+    public class GestorOrdenar
     {
+        public static List<ExpedienteEntidad> OrdenarPorCodigo(
+            List<ExpedienteEntidad> expedientes)
+        {
+            return expedientes
+                .OrderBy(e => e.Codigo)
+                .ToList();
+        }
     }
 }
