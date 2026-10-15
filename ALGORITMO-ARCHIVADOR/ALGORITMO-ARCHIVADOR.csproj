@@ -56,14 +56,16 @@
     <Compile Include="GESTORES.REGISTRAR\GestorPersistencia.cs" />
     <Compile Include="GESTORES.REGISTRAR\GestorRegistrar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VALIDACIONES\Validador.cs" />
+    <Compile Include="VALIDACIONES\ValidadorEsCampoVacio.cs" />
+    <Compile Include="VALIDACIONES\ValidadorEsCorreo.cs" />
+    <Compile Include="VALIDACIONES\ValidadorEsDniRuc.cs" />
     <Compile Include="VISTAS\MenuPrincipal.cs" />
     <Compile Include="VISTAS\VistasComun.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="VALIDACIONES\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
