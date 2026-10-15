@@ -50,7 +50,7 @@
     <Compile Include="EXPEDIENTE\ExpedienteFromFileLine.cs" />
     <Compile Include="EXPEDIENTE\ExpedienteToFileLine.cs" />
     <Compile Include="EXPEDIENTE\ExpedienteToString.cs" />
-    <Compile Include="GESTORES.REGISTRAR\GestorBuscar1.cs" />
+    <Compile Include="GESTORES.REGISTRAR\GestorBuscar.cs" />
     <Compile Include="GESTORES.REGISTRAR\GestorExpediente.cs" />
     <Compile Include="GESTORES.REGISTRAR\GestorOrdenar.cs" />
     <Compile Include="GESTORES.REGISTRAR\GestorPersistencia.cs" />

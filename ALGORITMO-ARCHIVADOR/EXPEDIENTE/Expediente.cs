@@ -1,4 +1,4 @@
-﻿using ALGORITMO_ARCHIVADOR.EXPEDIENTE;
+﻿using MesaPartesCajamarca.Expediente.Base;
 using MesaPartesCajamarca.Expediente.FromFileLine;
 using System;
 using System.Collections.Generic;

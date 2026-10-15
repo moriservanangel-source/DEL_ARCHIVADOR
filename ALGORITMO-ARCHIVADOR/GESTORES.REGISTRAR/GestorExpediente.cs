@@ -1,8 +1,7 @@
-﻿using ALGORITMO_ARCHIVADOR.GESTORES.REGISTRAR;
+﻿using MesaPartesCajamarca.Gestores.Registrar;
 using MesaPartesCajamarca.Gestores.Buscar;
 using MesaPartesCajamarca.Gestores.Ordenar;
 using MesaPartesCajamarca.Gestores.Persistencia;
-using MesaPartesCajamarca.Gestores.Registrar;
 using System;
 using System.Collections.Generic;
 using System.Linq;
