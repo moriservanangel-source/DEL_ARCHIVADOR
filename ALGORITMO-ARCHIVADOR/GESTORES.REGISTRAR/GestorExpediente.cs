@@ -14,9 +14,7 @@ namespace MesaPartesCajamarca.Gestores
     public class GestorExpedientes
     {
         private List<ExpedienteEntidad> expedientes;
-
         private readonly string rutaArchivo;
-
         public string MensajeCarga { get; private set; }
 
         public GestorExpedientes(

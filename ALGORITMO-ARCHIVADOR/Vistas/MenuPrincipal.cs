@@ -66,7 +66,7 @@ namespace MesaPartesCajamarca.Vistas.Menu
 
                     default:
                         Console.WriteLine(
-                            "❌ Opción inválida. Seleccione del 1 al 5.");
+                            " Opción inválida. Seleccione del 1 al 5.");
 
                         Pausar();
                         break;
@@ -162,7 +162,7 @@ namespace MesaPartesCajamarca.Vistas.Menu
                 out folios))
             {
                 Console.WriteLine(
-                    "\n❌ FALLA 21: Los folios deben ser un número entero.");
+                    "\n FALLA 21: Los folios deben ser un número entero.");
 
                 return;
             }
@@ -192,12 +192,12 @@ namespace MesaPartesCajamarca.Vistas.Menu
             if (registrado)
             {
                 Console.WriteLine(
-                    "\n✅ " + mensaje);
+                    "\n " + mensaje);
             }
             else
             {
                 Console.WriteLine(
-                    "\n❌ " + mensaje);
+                    "\n " + mensaje);
             }
         }
 
@@ -228,7 +228,7 @@ namespace MesaPartesCajamarca.Vistas.Menu
             else
             {
                 Console.WriteLine(
-                    "\n❌ No se encontró ningún expediente con ese código.");
+                    "\n No se encontró ningún expediente con ese código.");
             }
         }
 
