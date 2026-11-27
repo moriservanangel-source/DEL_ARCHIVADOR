@@ -1,4 +1,4 @@
-﻿using ALGORITMO_ARCHIVADOR.EXPEDIENTE;
+﻿using MesaPartesCajamarca.Expediente.Base;
 using MesaPartesCajamarca.Expediente.FromFileLine;
 using System;
 using System.Collections.Generic;
@@ -29,7 +29,12 @@ namespace MesaPartesCajamarca.Entidad
 
             DateTime fecha;
 
-            if (!DateTime.TryParse(parts[11], out fecha))
+            if (!DateTime.TryParseExact(
+                parts[11],
+                "yyyy-MM-dd HH:mm:ss",
+                System.Globalization.CultureInfo.InvariantCulture,
+                System.Globalization.DateTimeStyles.None,
+                out fecha))
                 throw new FormatException(
                     "La fecha de registro no es válida.");
 

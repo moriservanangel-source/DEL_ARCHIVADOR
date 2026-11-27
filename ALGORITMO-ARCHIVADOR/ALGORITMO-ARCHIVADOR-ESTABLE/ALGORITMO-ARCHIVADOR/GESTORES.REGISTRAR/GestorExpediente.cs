@@ -1,8 +1,7 @@
-﻿using ALGORITMO_ARCHIVADOR.GESTORES.REGISTRAR;
+﻿using MesaPartesCajamarca.Gestores.Registrar;
 using MesaPartesCajamarca.Gestores.Buscar;
 using MesaPartesCajamarca.Gestores.Ordenar;
 using MesaPartesCajamarca.Gestores.Persistencia;
-using MesaPartesCajamarca.Gestores.Registrar;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,9 +14,7 @@ namespace MesaPartesCajamarca.Gestores
     public class GestorExpedientes
     {
         private List<ExpedienteEntidad> expedientes;
-
         private readonly string rutaArchivo;
-
         public string MensajeCarga { get; private set; }
 
         public GestorExpedientes(
@@ -43,15 +40,18 @@ namespace MesaPartesCajamarca.Gestores
                     exp,
                     out mensaje);
 
-            if (registrado)
+            if (!registrado)
+                return false;
+
+            if (GestorPersistencia.Agregar(exp, rutaArchivo, out string mensajeGuardado))
             {
-                GestorPersistencia.Guardar(
-                    expedientes,
-                    rutaArchivo,
-                    out string mensajeGuardado);
+                mensaje = "Expediente registrado correctamente.";
+                return true;
             }
 
-            return registrado;
+            expedientes.Remove(exp);
+            mensaje = mensajeGuardado;
+            return false;
         }
 
         public ExpedienteEntidad BuscarPorCodigo(string codigo)

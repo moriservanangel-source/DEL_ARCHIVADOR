@@ -17,7 +17,6 @@ namespace MesaPartesCajamarca.Gestores.Buscar
             {
                 return null;
             }
-
             foreach (ExpedienteEntidad expediente in expedientes)
             {
                 if (expediente.Codigo.Equals(
@@ -27,7 +26,6 @@ namespace MesaPartesCajamarca.Gestores.Buscar
                     return expediente;
                 }
             }
-
             return null;
         }
     }
